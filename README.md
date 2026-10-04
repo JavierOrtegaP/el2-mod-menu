@@ -1,10 +1,11 @@
 # Mod Menu for ENDLESS Legend 2
 
-[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JavierOrtegaP)
-
-*If you like my work and Mod Menu keeps your mods tidy, you can
-[sponsor me on GitHub](https://github.com/sponsors/JavierOrtegaP). It's completely optional, but always appreciated,
-and it keeps me making more mods. Thank you! ❤️*
+> [!TIP]
+> **Enjoying Mod Menu?** If it keeps your mods tidy and you like my work, you can
+> [sponsor me on GitHub](https://github.com/sponsors/JavierOrtegaP). It's completely optional, but always appreciated,
+> and it keeps me making more mods. Thank you! ❤️
+>
+> [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JavierOrtegaP)
 
 One key for all your mods. **F7** opens a single window (F7 or Esc closes it):
 
