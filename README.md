@@ -2,6 +2,10 @@
 
 [![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JavierOrtegaP)
 
+*If you like my work and Mod Menu keeps your mods tidy, you can
+[sponsor me on GitHub](https://github.com/sponsors/JavierOrtegaP). It's completely optional, but always appreciated,
+and it keeps me making more mods. Thank you! ❤️*
+
 One key for all your mods. **F7** opens a single window (F7 or Esc closes it):
 
 - A **sidebar** listing the mods that have a page, ★ pinned ones first, then by name; it scrolls, so it works the
