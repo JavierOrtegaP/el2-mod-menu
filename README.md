@@ -1,5 +1,7 @@
 # Mod Menu for ENDLESS Legend 2
 
+[![Sponsor](https://img.shields.io/badge/Sponsor-%E2%9D%A4-db61a2?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/JavierOrtegaP)
+
 One key for all your mods. **F7** opens a single window (F7 or Esc closes it):
 
 - A **sidebar** listing the mods that have a page, ★ pinned ones first, then by name; it scrolls, so it works the
