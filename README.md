@@ -15,6 +15,8 @@ One key for all your mods. **F7** opens a single window (F7 or Esc closes it):
 - The selected mod's **page**, for example [Population Planner](https://github.com/JavierOrtegaP/el2-population-planner)
   or [Auto Foundations](https://github.com/JavierOrtegaP/el2-auto-foundations).
 
+![Mod Menu: the sidebar with each mod's page, and All mods with every loaded mod's version and status](docs/mod-menu.png)
+
 The menu knows nothing about the mods themselves; any number of mods can add a page (see below). The window opens
 centred, can be moved by its title bar and resized from its bottom-right corner, and remembers your pins and the last
 page you opened. While it is open, Esc only closes the menu; the game doesn't also open its pause menu.
