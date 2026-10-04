@@ -28,8 +28,9 @@ There is deliberately no search box: keys typed into it would also reach the gam
 1. Install **BepInEx 5** for Windows x64 (tested with
    [5.4.23.5](https://github.com/BepInEx/BepInEx/releases/tag/v5.4.23.5)): extract it into the game folder (the folder
    with `Endless Legend 2.exe`), so that `winhttp.dll` sits next to the game's exe. Start the game once.
-2. Download `ModMenu-<version>.zip` from the [releases](../../releases) and extract it into the same folder; it ends up
-   in `BepInEx/plugins/ModMenu/`.
+2. Download `ModMenu-<version>.zip` from the [releases](../../releases) (or from
+   [Nexus Mods](https://www.nexusmods.com/endlesslegend2/mods/8)) and extract it into the same folder; it ends up in
+   `BepInEx/plugins/ModMenu/`.
 3. In game, press **F7**.
 
 If nothing happens, check `BepInEx/LogOutput.log` for `Mod Menu ... active`. To uninstall, delete
